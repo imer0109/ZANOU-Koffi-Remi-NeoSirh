@@ -49,7 +49,7 @@
     <Service />
     <PourquoiSIRH />
     <QuiSommeNous />
-    <!-- <ContactUs/> -->
+    <ContactUs/>
   </div>
 </template>
 
